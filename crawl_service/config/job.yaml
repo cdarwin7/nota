@@ -1,0 +1,5 @@
+url: https://visuresolutions.com/
+max_depth: 2
+include_subdomains: false
+obey_robots_txt: true
+bypass_cache: true
